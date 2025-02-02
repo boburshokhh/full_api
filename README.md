@@ -23,7 +23,7 @@
 
 ### 1️⃣ Клонирование репозитория
 ```sh
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/boburshokhh/full_api.git
 cd yourproject
 ```
 
